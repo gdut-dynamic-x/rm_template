@@ -5,8 +5,8 @@
   <description>A template for ROS packages.</description>
   <maintainer email="pfankhauser@anybotics.com">Peter Fankhauser</maintainer>
   <license>BSD</license>
-  <url type="website">https://github.com/ethz-asl/ros_best_practices</url>
-  <url type="bugtracker">https://github.com/ethz-asl/ros_best_practices/issues</url>
+  <!--  <url type="website">https://github.com/ethz-asl/ros_best_practices</url>-->
+  <!--  <url type="bugtracker">https://github.com/ethz-asl/ros_best_practices/issues</url>-->
   <author email="pfankhauser@anybotics.com">Peter Fankhauser</author>
 
   <!-- buildtool_depend: dependencies of the build process -->

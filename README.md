@@ -11,7 +11,7 @@ Or, add some keywords to the Bitbucket or GitHub repository.
 
 ### License
 
-The source code is released under a [BSD 3-Clause license](ros_package_template/LICENSE).
+The source code is released under a [BSD 3-Clause license](LICENSE).
 
 **Author: Péter Fankhauser<br />
 Affiliation: [ANYbotics](https://www.anybotics.com/)<br />
@@ -24,20 +24,27 @@ The PACKAGE NAME package has been tested under [ROS] Indigo, Melodic and Noetic 
 
 ![Example image](doc/example.jpg)
 
-### Publications
+[comment]: <> (### Publications)
 
-If you use this work in an academic context, please cite the following publication(s):
+[comment]: <> (If you use this work in an academic context, please cite the following publication&#40;s&#41;:)
 
-* P. Fankhauser, M. Bloesch, C. Gehring, M. Hutter, and R. Siegwart: **PAPER TITLE**. IEEE/RSJ International Conference
-  on Intelligent Robots and Systems (IROS), 2015. ([PDF](http://dx.doi.org/10.3929/ethz-a-010173654))
+[comment]: <> (* P. Fankhauser, M. Bloesch, C. Gehring, M. Hutter, and R. Siegwart: **PAPER TITLE**. IEEE/RSJ International Conference)
 
-        @inproceedings{Fankhauser2015,
-            author = {Fankhauser, P\'{e}ter and Hutter, Marco},
-            booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-            title = {{PAPER TITLE}},
-            publisher = {IEEE},
-            year = {2015}
-        }
+[comment]: <> (  on Intelligent Robots and Systems &#40;IROS&#41;, 2015. &#40;[PDF]&#40;http://dx.doi.org/10.3929/ethz-a-010173654&#41;&#41;)
+
+[comment]: <> (        @inproceedings{Fankhauser2015,)
+
+[comment]: <> (            author = {Fankhauser, P\'{e}ter and Hutter, Marco},)
+
+[comment]: <> (            booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems &#40;IROS&#41;},)
+
+[comment]: <> (            title = {{PAPER TITLE}},)
+
+[comment]: <> (            publisher = {IEEE},)
+
+[comment]: <> (            year = {2015})
+
+[comment]: <> (        })
 
 ## Installation
 
@@ -178,7 +185,7 @@ Reads temperature measurements and computed the average.
 
 ## Bugs & Feature Requests
 
-Please report bugs and request features using the [Issue Tracker](https://github.com/ethz-asl/ros_best_practices/issues)
+Please report bugs and request features using the [Issue Tracker](https://github.com/gdut-dynamic-x/rm_template/issues)
 .
 
 
